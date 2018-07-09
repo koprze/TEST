@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1454624294 source:c:\users\franek\desktop\zapotrzebowanie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bmr.h"
+
+1454671111 c:\users\franek\desktop\zapotrzebowanie\bmr.h
+
+1454620050 source:c:\users\franek\desktop\zapotrzebowanie\zrodlo.c
+	"bmr.h"
+	<stdio.h>
+
